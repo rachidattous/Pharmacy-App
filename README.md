@@ -1,6 +1,6 @@
 A simple mobile application aimed at helping people locate nearby pharmacies and easily find on-duty pharmacies
 
-                               https://github.com/rachidattous/Pharmacy-App/assets/86248042/99fa8e52-cd69-4749-9913-c4264cb15d96
+  https://github.com/rachidattous/Pharmacy-App/assets/86248042/99fa8e52-cd69-4749-9913-c4264cb15d96
 
 Web version
 
