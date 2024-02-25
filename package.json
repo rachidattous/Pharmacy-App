@@ -1,0 +1,17 @@
+{
+  "name": "pharmacy-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "server": "nodemon backend/server.js",
+    "client": "expo start frontend",
+    "dev": "concurrently \"npm run server\" \"npm run client\""
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "concurrently": "^6.5.1",
+    "nodemon": "^2.0.15"
+  }
+}
